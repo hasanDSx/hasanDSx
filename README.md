@@ -3,6 +3,7 @@
 <p align="center">
   <strong>Data Scientist & ML Engineer</strong><br/>
   Turning data into decisions
+  
   · Cairo, Egypt
 </p>
 
