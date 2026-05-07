@@ -58,30 +58,6 @@ Data Scientist and ML Engineer with a background in Economics and Foreign Trade 
 
 ---
 
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **E-Commerce Performance Analysis** | End-to-end analytics pipeline for a $1.9M platform — 472K+ sessions, conversion & profitability insights across 14+ business questions | Python · PostgreSQL · DuckDB · Plotly |
-| **Sales Performance Dashboard** | Dynamic Power BI dashboard across 4 dimensions with drill-through, bookmarks & KPI cards | Power BI · DAX |
-| **Multi-Region Sales Data Warehouse** | CLV modeling, RFM scoring, churn analysis & ABC classification with an interactive Quarto report | SQL · Python · Quarto |
-| **Credit Card Fraud Detection** | 0.87+ PR-AUC on 0.17% fraud rate — ~500× improvement over baseline using Random Forest | Python · Scikit-Learn · Pandas |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanDSx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanDSx&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasanDSx&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
 <p align="center">
   <em>Data tells stories — I help decode them.</em>
 </p>
