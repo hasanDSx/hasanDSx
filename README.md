@@ -2,19 +2,8 @@
 
 <p align="center">
   <strong>Data Scientist & ML Engineer</strong><br/>
-  Turning data into decisions · Cairo, Egypt
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/hasanmuhammed14">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hasan.m.abdelaty@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hasanDSx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  Turning data into decisions
+  · Cairo, Egypt
 </p>
 
 ---
